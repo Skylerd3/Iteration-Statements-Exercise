@@ -1,0 +1,15 @@
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.deps.json
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.runtimeconfig.json
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.dll
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.pdb
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfo.cs
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.dll
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/refint/IterationStatements.dll
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.pdb
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.genruntimeconfig.cache
+/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/ref/IterationStatements.dll

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Owajx2GxMHTI/vMU92uTfZKYltOjw6GdVsSMuk7MdFzvpzZgHUZuE88G97bow19PXkOf2clTg+XYMbhE9XVm0g==",
+  "dgSpecHash": "nmU/r+lrTc8/t4fXwjQIynSTGYsVhh3fxzoLbqEDrpuF+N0ccgmlOp1/GH6ZzXeKeyNskDy9LdA+T2MWf57SGQ==",
   "success": true,
-  "projectFilePath": "\\\\vmware-host\\Shared Folders\\Desktop\\repos\\csharp-31\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/kiara/Desktop/repos/LoopsExercise1/LoopsExercise2/IterationStatementsProject/Iteration-Statements-Exercise/IterationStatements/IterationStatements.csproj",
+  "expectedPackageFiles": [
+    "/Users/kiara/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kiara/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/kiara/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
